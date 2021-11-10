@@ -1,10 +1,10 @@
 # Xiaomi_game_clicker
 ## Overview
-Xiaomi has started a [game event](https://ru.event.mi.com/ru/sales2021/xiaomi11tgame) with the acrual game found [here](https://cinemagicgame.igm.gg/).\
+Xiaomi has started a [game event](https://ru.event.mi.com/ru/sales2021/xiaomi11tgame) with the actual game found [here](https://cinemagicgame.igm.gg/).\
 [RUS] _Xiaomi запустили [конкурс](https://ru.event.mi.com/ru/sales2021/xiaomi11tgame) где надо найти и пройти игру, сама игра [здесь](https://cinemagicgame.igm.gg/)._
 
-This is a simple Selenium automation that will help you get a maximum score in 4th game without being detected.\
-[RUS] _Это простая автоматизация в Selenium для последней 4-ой игры, которая поможет набрать максимальное число очков, при этом не является взломом и не нарушает правил игры в их текущей редации._
+This repo is a simple Selenium automation that will help you get a maximum score in 4th game without being detected.\
+[RUS] _Это простая автоматизация в Selenium для последней 4-ой игры, которая поможет набрать максимальное число очков, при этом не является взломом и не нарушает правил игры в их текущей редакции._
 
 ## How to get started
 ### Prerequisites
@@ -37,7 +37,7 @@ Than:\
 
 #### Care about detection
 Open the downloaded driver with notepad++ / vim / sed / whatever and change every instance of `cdc_` to something else.\
-[RUS] _Откройте скачанный драйвер любым редактором и замените все `свс_` на что-нибудь ещё_
+[RUS] _Откройте скачанный драйвер любым редактором и замените все_ `cdc_` _на что-нибудь ещё_
 
 [Source](https://stackoverflow.com/questions/33225947/can-a-website-detect-when-you-are-using-selenium-with-chromedriver)
 
