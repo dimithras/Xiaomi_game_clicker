@@ -28,7 +28,7 @@ brave_path = r"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.ex
 profile_path = r""
 option = webdriver.ChromeOptions()
 option.binary_location = brave_path
-option.add_argument(profil_path) 
+option.add_argument(profile_path) 
 # option.add_argument("--headless")
 
 browser = webdriver.Chrome(executable_path=driver_path, options=option)
