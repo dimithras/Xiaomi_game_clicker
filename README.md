@@ -6,6 +6,13 @@ Xiaomi has started a [game event](https://ru.event.mi.com/ru/sales2021/xiaomi11t
 This repo is a simple Selenium automation that will help you get a maximum score in 4th game without being detected.\
 [RUS] _Это простая автоматизация в Selenium для последней 4-ой игры, которая поможет набрать максимальное число очков, при этом не является взломом и не нарушает правил игры в их текущей редакции._
 
+##### UPD
+The game event is over, so I'm sharing with you how to [hack](hacking-turotial.md) this game in developer console, that was fun.\
+Although it's no use now, it might be beneficial to read this tutorial and follow the logic on how this could be done. And, btw, aside from me I guess there've been plenty of people who did this 😛
+
+[RUS] _Конкурс подошёл к концу, также делюсь инструкцией как её можно было [взломать](hacking-turotial.md).\
+Несмотря на то, что воспользоваться этим способом уже не получится, довльно легко проследить логику и повторить где-то ещё. Наверняка я не единственный, кто накрутил счётчик, но тутор только здесь )_
+
 ## How to get started
 ### Prerequisites
 Assuming you've already got Python installed, you'll need a Selenium package.\
