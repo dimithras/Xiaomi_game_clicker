@@ -49,7 +49,7 @@ Same goes for the state.\
 ![image](https://user-images.githubusercontent.com/32206956/141380915-77e30d91-e32d-42c5-afd1-9e3c9f3a1f17.png)
 
 #### Where does the progress change
-If we put an *XHR|fetch Breakpoing* and play the game, it will stop on
+If we put an *XHR\fetch Breakpoint* and play the game, it will stop on
 ```JS {r, attr.source='.numberLines startFrom="11653"'}
 sendResult(n, i=0) {
 	Vn.headers = Vn.headers.delete("X-CSRF-Token").append("X-CSRF-Token", t.user.csrfToken);
